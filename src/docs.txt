@@ -1,0 +1,1 @@
+echo Toi dang thuc hanh git
