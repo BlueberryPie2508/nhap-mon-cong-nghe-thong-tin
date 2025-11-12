@@ -1,0 +1,1 @@
+echo Toi la sinh vien khoa ttnt va khdl dai hoc Phenikaa
